@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "445525046045",
+    "firebase_url": "https://planets-max.firebaseio.com",
+    "project_id": "planets-max",
+    "storage_bucket": "planets-max.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445525046045:android:fe1dc16ad93ac89cae27f4",
+        "android_client_info": {
+          "package_name": "mx.dram.planets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445525046045-auf23bsj5qm4i6735fl1urghi7hqh9ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBryybGNGpr6EG-vYWmjiOPmkXOyuatjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445525046045-auf23bsj5qm4i6735fl1urghi7hqh9ge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
